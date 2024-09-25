@@ -1,2 +1,1 @@
-# versionamento_matheusmendesdutra
-Meu exercicio por completo do versionamento de codigo 
+Está aqui meu versionamento, composto por 5 branches, e 5 commits separados cada um, com assuntos diferentes!
